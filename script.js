@@ -2,7 +2,7 @@
 const RESTART_GAME = 7;
 const FPS = 30;
 const BOARDSIZE = 3;
-const HEIGHT = 550;
+const HEIGHT = 800;
 const WIDTH = HEIGHT * 0.9;
 const CELL = WIDTH / (BOARDSIZE + 2);
 const STROKE = CELL / 20;
